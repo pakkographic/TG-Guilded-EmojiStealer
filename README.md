@@ -1,4 +1,4 @@
-### Simple interaction handler providing a base to get started with TouchGuild.
+### Emoji Stealer for Guilded made with TouchGuild.
 
 #### Note: as interactions aren't officially released, this base uses a development build of TouchGuild.
 
@@ -16,7 +16,10 @@ Start your application
 npm run start
 ```
 
------------------
-Be aware that this base is not official to TouchGuild, even if it has been made by the owner of the said library.
+### Commands:
+- /stealer help
+- /stealer start
+- /stealer end
 
-The base may need to get updated as TouchGuild updates, feel free to PR or update it yourself in local to make it work properly and continue developing your project.
+-----------------
+Open-Source app made with love, Powered by TouchGuild.
